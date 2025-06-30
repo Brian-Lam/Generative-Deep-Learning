@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+env/
+.venv/
+.direnv/
+
+# Sensitive information
+.env
+*.pem
+*.key

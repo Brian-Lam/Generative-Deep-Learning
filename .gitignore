@@ -8,3 +8,6 @@ env/
 .env
 *.pem
 *.key
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
